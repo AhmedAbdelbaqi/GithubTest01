@@ -8,7 +8,8 @@ namespace GitHubTest01
         {
             Console.WriteLine("Hello World ## new Message Code 2");
             Console.WriteLine ("Okay that my second line ");
-            
+            Console.WriteLine ("Line 3");
+
         }
     }
 }
